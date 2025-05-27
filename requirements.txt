@@ -1,5 +1,0 @@
-**requirements.txt**
-
-# Only the essential libraries used in the project
-nltk
-spacy
