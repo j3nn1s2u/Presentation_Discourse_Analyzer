@@ -16,9 +16,9 @@ PDA is a rule-based NLP system designed to help English teachers analyze the str
 Input Text → Preprocessing → Paragraph Classification → Human Verification → Text Analysis → Teacher Review → Feedback Output
 
 ## Three-Phase Development Plan
- - V1 Basic paragraph classifier (Complete)
- - V2 Structural completeness checker (In Progress)
- - V3 Batch processing + visualization (Planned June 2025)
+ - V1 Basic paragraph classifier (Completed)
+ - V2 Structural completeness checker (Completed)
+ - V3 Batch processing + visualization (Planned)
 
 
 _"From teacher intuition to systematic NLP: Building bridges between human expertise and computational methods in educational technology."_
